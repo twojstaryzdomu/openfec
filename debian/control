@@ -30,4 +30,4 @@ Multi-Arch: same
 Section: libdevel
 Depends: ${misc:Depends}, libopenfec (= ${binary:Version})
 Description: Application-Level Forward Erasure Correction implementation library - development files
- Application-Level Forward Erasure Correction implementation library
+ Application-Level Forward Erasure Correction implementation library - development files
